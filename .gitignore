@@ -39,3 +39,5 @@
 
 # debug information files
 *.dwo
+
+*.csv\n*.mp4\n.DS_Store
